@@ -1,0 +1,13 @@
+# Local MLflow database
+tourism_project/model_building/mlflow.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
